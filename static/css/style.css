@@ -8,7 +8,7 @@ body {
   letter-spacing: 1px;
 	color: white;
 
-	background: url('../images/coffee-shop.jpg');
+	background: url('../images/camping.jpg');
   /* Full Page Background Receipe */
   background-size: cover;
   background-position: center;
@@ -26,6 +26,7 @@ h1 {
   font-family: Verdana; 
   font-weight: bold;
 	font-size: 44px;
+  text-shadow: 6px 6px 0px #000;
 	margin-bottom: -20px;
   letter-spacing: 1px;
 }
@@ -34,12 +35,22 @@ h2 {
   font-family: Verdana; 
 	font-size: 29px;
   line-height: 38px;
+  text-shadow: 4px 4px 0px #000;
   font-weight: normal;
   color: #d6a433;
 }
 
+p {
+  font-family: Verdana;
+    font-size: 20px;
+  line-height: 30px;
+  text-shadow: 3px 3px 0px #000;
+  font-weight: normal;
+}
+
 a {
 	color: #d6a433;
+  text-shadow: 3px 3px 0px #000;
 	text-decoration: none;
 }
 
